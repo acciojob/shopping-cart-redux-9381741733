@@ -1,4 +1,5 @@
-{
+
+   {
     "name": "react-boilerplate",
     "version": "1.0.0",
     "description": "",
@@ -56,3 +57,4 @@
         "xml-js": "^1.6.11"
     }
 }
+     
